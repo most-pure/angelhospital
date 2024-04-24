@@ -1,0 +1,153 @@
+{
+    "available_doctors": [
+        {
+            "id": 1,
+            "profilePics": "/img/doctors.png",
+            "name": "Dr. Femi",
+            "profession": "Medical Doctor"
+        },
+        {
+            "id": 2,
+            "profilePics": "/img/doctors.png",
+            "name": "Dr. Femi",
+            "profession": "Medical Nurse"
+        },
+        {
+            "id": 3,
+            "profilePics": "/img/doctors.png",
+            "name": "Dr. Femi",
+            "profession": "Medical Doctor"
+        },
+        {
+            "id": 4,
+            "profilePics": "/img/doctors.png",
+            "name": "Dr. Femi",
+            "profession": "Medical Nurse"
+        }
+    ],
+    "new_patients": [
+        {
+            "id": 1,
+            "profilePics": "/img/doctors.png",
+            "name": "Kemi Davies",
+            "profession": "Unilag Student"
+        },
+        {
+            "id": 2,
+            "profilePics": "/img/doctors.png",
+            "name": "Kemi Davies",
+            "profession": "Unilag Student"
+        },
+        {
+            "id": 3,
+            "profilePics": "/img/doctors.png",
+            "name": "Kemi Davies",
+            "profession": "Unilag Student"
+        },
+        {
+            "id": 4,
+            "profilePics": "/img/doctors.png",
+            "name": "Kemi Davies",
+            "profession": "Unilag Student"
+        },
+        {
+            "id": 5,
+            "profilePics": "/img/doctors.png",
+            "name": "Kemi Davies",
+            "profession": "Unilag Student"
+        },
+        {
+            "id": 6,
+            "profilePics": "/img/doctors.png",
+            "name": "Kemi Davies",
+            "profession": "Unilag Student"
+        },
+        {
+            "id": 7,
+            "profilePics": "/img/doctors.png",
+            "name": "Kemi Davies",
+            "profession": "Unilag Student"
+        },
+        {
+            "id": 8,
+            "profilePics": "/img/doctors.png",
+            "name": "Kemi Davies",
+            "profession": "Unilag Student"
+        },
+        {
+            "id": 9,
+            "profilePics": "/img/doctors.png",
+            "name": "Kemi Davies",
+            "profession": "Unilag Student"
+        },
+        {
+            "id": 10,
+            "profilePics": "/img/doctors.png",
+            "name": "Kemi Davies",
+            "profession": "Unilag Student"
+        }
+    ],
+    
+    "appointments": [
+        {
+            "id": 1,
+            "profilePics": "/img/doctors.png",
+            "name": "Kemi Davies",
+            "appointment": "Video Call @ 10AM"
+        },
+        {
+            "id": 2,
+            "profilePics": "/img/doctors.png",
+            "name": "Kemi Davies",
+            "appointment": "Video Call @ 10AM"
+        },
+        {
+            "id": 3,
+            "profilePics": "/img/doctors.png",
+            "name": "Kemi Davies",
+            "appointment": "Video Call @ 10AM"
+        },
+        {
+            "id": 4,
+            "profilePics": "/img/doctors.png",
+            "name": "Kemi Davies",
+            "appointment": "Video Call @ 10AM"
+        },
+        {
+            "id": 5,
+            "profilePics": "/img/doctors.png",
+            "name": "Kemi Davies",
+            "appointment": "Video Call @ 10AM"
+        },
+        {
+            "id": 6,
+            "profilePics": "/img/doctors.png",
+            "name": "Kemi Davies",
+            "appointment": "Video Call @ 10AM"
+        },
+        {
+            "id": 7,
+            "profilePics": "/img/doctors.png",
+            "name": "Kemi Davies",
+            "appointment": "Video Call @ 10AM"
+        },
+        {
+            "id": 8,
+            "profilePics": "/img/doctors.png",
+            "name": "Kemi Davies",
+            "appointment": "Video Call @ 10AM"
+        },
+        {
+            "id": 9,
+            "profilePics": "/img/doctors.png",
+            "name": "Kemi Davies",
+            "appointment": "Video Call @ 10AM"
+        },
+        {
+            "id": 10,
+            "profilePics": "/img/doctors.png",
+            "name": "Kemi Davies",
+            "appointment": "Video Call @ 10AM"
+        }
+    ]
+}
